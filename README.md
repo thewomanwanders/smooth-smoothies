@@ -1,0 +1,2 @@
+# smooth-smoothies
+GitHub Pages
